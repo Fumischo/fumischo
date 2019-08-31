@@ -92,6 +92,13 @@ ul.top_menu {
   padding: 2rem;
 }
 
+.side_menu .point{
+ background-color: #FCECEC;
+}
+.side_menu .point a{
+ color: #4D4D4D;
+}
+
 .contact-form tr{
   height:7rem;
   width: 11
@@ -141,12 +148,6 @@ textarea{
 
 
 
-.side_menu .point{
- background-color: #FCECEC;
-}
-.side_menu .point a{
- color: #4D4D4D;
-}
 
 
 .footer{
@@ -187,12 +188,20 @@ textarea{
 
 
 
-
-
-
   
 
   
+
+
+
+
+
+
+
+
+
+
+
 
 
 
